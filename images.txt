@@ -1,1 +1,1 @@
-nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04
+google/deepvariant:1.8.0-rc1-gpu
