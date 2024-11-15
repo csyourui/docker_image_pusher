@@ -1,2 +1,2 @@
 ubuntu:22.04
-google/deepvariant:1.6.1-gpu
+ubuntu:20.04
