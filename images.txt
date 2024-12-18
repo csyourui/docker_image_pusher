@@ -1,1 +1,1 @@
-google/deepvariant:1.8.0-gpu
+google/deepvariant:1.8.0_saved_model-gpu
