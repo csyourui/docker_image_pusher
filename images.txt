@@ -1,1 +1,8 @@
-google/deepvariant:1.8.0_saved_model-gpu
+semitechnologies/weaviate:1.19.0
+redis:6-alpine
+ubuntu/squid:latest
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
+postgres:15-alpine
+langgenius/dify-sandbox:0.2.10
+nginx:latest
